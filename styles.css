@@ -1,0 +1,29 @@
+.arkaplan{
+    background-size: cover;
+    min-height: 100vh;
+    position: relative;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0,0);
+        
+}
+
+
+  
+.form-check-label {
+  margin-right: 5px; /* Dilediğiniz ölçüde margin sağlayabilirsiniz */
+}
+.password{
+    padding: 8px;
+    opacity: 0.7;
+    border-radius: 5px;
+}
+
+.username{
+    padding: 8px;
+    opacity: 0.7;
+    border-radius: 5px;
+
+}
+.card {
+  margin-bottom: 60px; /* Dilediğiniz ölçüde margin-bottom ekleyebilirsiniz */
+}
+
